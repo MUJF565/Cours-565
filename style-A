@@ -1,0 +1,36 @@
+<style>
+	h1 {text-align: center;
+		font-size: 75% ;
+	}
+
+	
+	.raw {
+		width: 90%
+		background-color: gray}
+	@media screen and (min-width: 992px){
+
+	.col-1 { width: 33.33%;
+			 float: left;
+			 margin :20px;
+			 border: 30px solid ;
+    		 padding: 25px;}
+    .col-2 {width: 33.33%;
+			 float: left;
+			 margin :20px;
+			 border: 25px solid ;
+    		 padding: 25px;}
+    .col-3 {width: 33.33%;
+			 float: left;
+			 margin :20px;
+			 border: 25px solid ;
+    		 padding: 25px;
+    		 }
+    		}
+    h2 {text-align:left;
+		font-size: 25% 
+		.box:border 5px solid;
+		
+	}
+	p {font-size: 20px
+		margin :20px
+		padding 10px;}
