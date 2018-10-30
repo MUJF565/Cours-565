@@ -66,7 +66,8 @@ width: 29.3%;
 @media (min-width: 997px) 
       #h2-1{width:25%;
         height:15%;
-        border-style: solid;
+        border-left-style: solid;
+        border-bottom-style:solid;
         border-width: 2px;
         background-color:#ff0000;
         border-color: black;
@@ -106,7 +107,8 @@ box-sizing:border-box;
 width: 100%;
 
 margin-left:2%;
-border-style: solid;
+border-left-style: solid;
+border-bottom-style:solid;
 border-width: 5px;
 
 background-color:gray; }
@@ -167,7 +169,8 @@ float: left;
 box-sizing:border-box;
 width: 100%;
 margin-left :2%;
-border-style: solid;
+border-left-style: solid;
+border-bottom-style:solid;
 border-width: 5px;
 box-sizing:border-box;
 background-color:gray; 
