@@ -66,7 +66,7 @@ width: 29.3%;
      
 
     #h2-1{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         background-color:#ff0000;
         border-color: black;
@@ -84,7 +84,7 @@ width: 29.3%;
         margin: 0px;
       }
      #h2-3{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         background-color:#ffa500;
         color: black;
@@ -125,7 +125,7 @@ background-color:gray; }
 @media (min-width: 768px) {
   
     #h2-1{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         border-width: 2px;
         background-color:#ff0000;
@@ -135,7 +135,7 @@ background-color:gray; }
         margin: 0px;
       }
       #h2-2{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         background-color:#3cb371;
         border-color: black;
@@ -144,7 +144,7 @@ background-color:gray; }
         margin: 0px;
       }
      #h2-3{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         border-width: 2px;
         background-color:#ffa500;
@@ -185,7 +185,7 @@ background-color:gray;
 }
 @media (max-width: 767px) {
     #h2-1{width:25%;
-        height:15%;
+        height:25%;
          border-style: solid;
         background-color:#ff0000;
         border-color: black;
@@ -194,7 +194,7 @@ background-color:gray;
         margin: 0px;
  }
       #h2-2{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         background-color:#3cb371;
         border-color: black;
@@ -203,7 +203,7 @@ background-color:gray;
         margin: 0px;
       }
      #h2-3{width:25%;
-        height:15%;
+        height:25%;
         border-style: solid;
         border-color: black;
         background-color:#ffa500;
