@@ -5,14 +5,15 @@
     margin-top: 400px;
    margin-bottom:0px;
      padding: 0px
-    }}
+    }
+}
     @media (min-width:768px){#h1 { 
     text-align: center;
     font-size:50px
     margin-top: 400px;
    margin-bottom: 0px;
      padding: 0px
-    }}
+  }}
     @media (min-width: 767px){#h1 { 
       text-align: center;
     font-size:50px
@@ -64,7 +65,7 @@ width: 29.3%;
 
 
 }
-@media (min-width: 997px) {
+@media (min-width: 997px) 
       #h2-1{width:25%;
         height:15%;
         border-style: solid;
@@ -95,6 +96,8 @@ width: 29.3%;
         padding: 0px;
         margin: 0px;
       }
+
+@media (min-width: 997px) {#p{ padding 3px;}}
 
 /********** taplet **********/
  @media (min-width: 768px) {*{height: 75%;
@@ -155,7 +158,7 @@ background-color:gray; }
         padding: 0px;
         margin: 0px;
       }
-
+@media (min-width: 997px) {#p{ padding 3px;}}
 
 
 /********** mobile **********/
@@ -219,6 +222,6 @@ background-color:gray;
         padding: 0px;
         margin: 0px;
       }
-    }
->>>>>>> 6841fa8dba89e64104b13ca9fe8f5c9d7e6024c4
+    }@media (min-width: 997px) {#p{ padding 3px;}}
+   
 </style>
