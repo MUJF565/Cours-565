@@ -77,6 +77,10 @@ width: 29.3%;
         color: white;
         padding: 0px;
         margin: 0px;
+         .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
       #h2-2{width:25%;
         height:15%;
@@ -86,6 +90,10 @@ width: 29.3%;
         color: black;
         padding: 0px;
         margin: 0px;
+           .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
      #h2-3{width:25%;
         height:25%;
@@ -95,6 +103,10 @@ width: 29.3%;
         border-color: black;
         padding: 0px;
         margin: 0px;
+        .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
 
 }
@@ -137,6 +149,10 @@ background-color:gray; }
         color: white;
         padding: 0px;
         margin: 0px;
+         .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
       #h2-2{width:25%;
         height:25%;
@@ -146,6 +162,10 @@ background-color:gray; }
         color: black;
         padding: 0px;
         margin: 0px;
+           .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
      #h2-3{width:25%;
         height:25%;
@@ -156,6 +176,10 @@ background-color:gray; }
         color: black;
         padding: 0px;
         margin: 0px;
+          .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
 
 
@@ -195,6 +219,10 @@ background-color:gray;
         color: white;
         padding: 0px;
         margin: 0px;
+         .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
  }
       #h2-2{width:25%;
         height:25%;
@@ -204,6 +232,10 @@ background-color:gray;
         color: black;
         padding: 0px;
         margin: 0px;
+           .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
      #h2-3{width:25%;
         height:25%;
@@ -213,6 +245,10 @@ background-color:gray;
         color: black;
         padding: 0px;
         margin: 0px;
+          .cornor {
+    position: relative;
+    left:50%;
+    text-align: center;}
       }
     }
    
