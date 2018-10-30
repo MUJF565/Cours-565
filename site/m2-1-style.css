@@ -40,7 +40,7 @@
     
   /********** desktop **********/
  @media (min-width: 997px) {
-    * {height :100%;}
+    
      .Dbox1, .Dbox2 ,.Dbox3 {
 float: left;
 box-sizing:border-box;
@@ -101,7 +101,7 @@ width: 29.3%;
 
 /********** taplet **********/
  @media (min-width: 768px) {
-      * {height :100%;}
+      
    .Tbox1, .Tbox2 ,.Tbox3 {
 float: left;
 box-sizing:border-box;
@@ -161,8 +161,6 @@ background-color:gray; }
 
 /********** mobile **********/
  @media (max-width: 767px) {
-  
-  * {height :100%;}
    .Mbox1, .Mbox2 ,.Mbox3 {
 
 float: left;
